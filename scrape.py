@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import time
-
 PATH = ' C:/Program Files/Google/Chrome/Application/chrome.exe'
 
 output=[]
